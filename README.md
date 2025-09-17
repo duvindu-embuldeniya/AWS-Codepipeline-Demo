@@ -1,5 +1,7 @@
 # Project Setup
 
+![Project Banner](https://drive.google.com/uc?export=view&id=1zwtv-wNfQEIPU0z9CD-cO3dpvsT_CQtj)
+
 ## Getting Started
 
 1. **Clone the repository to your local machine:**
